@@ -9,4 +9,8 @@ Arch
 sudo pacman -S python-requests python-pyfiglet playerctl
 ```
 
+### Installation
 
+```
+pip install -e . --break-system-packages
+```
