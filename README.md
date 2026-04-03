@@ -8,3 +8,5 @@ Arch
 ```bash
 sudo pacman -S python-requests python-pyfiglet playerctl
 ```
+
+
