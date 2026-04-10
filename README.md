@@ -1,4 +1,4 @@
-# mybadlyrics
+# lyrixx
 
 Terminal lyrics visualizer, WIP
 
